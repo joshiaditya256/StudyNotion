@@ -1,14 +1,13 @@
 # StudyNotion Edtech Project
-# StudyNotion
+
 
 🎓 StudyNotion is a full-stack EdTech platform where users can register as students or instructors, manage courses, and track progress.
 
-## 🌐 Live Demo
-[https://your-live-link.com](https://your-live-link.com)
+
 
 ## 🚀 Features
 
-- User Authentication (JWT)
+- User Authentication 
 - Role-based access ( Instructor, Student)
 - Course Creation, Management, and Purchase
 - Video content & quizzes
@@ -18,7 +17,7 @@
 
 **Frontend**: React, Tailwind CSS  
 **Backend**: mongodb ,expressjs 
-**Auth**: JWT
+
 
 
 ## 🧪 Run Locally
@@ -31,6 +30,6 @@ npm run dev
 
 ##backend
 cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
+node  index.js
+
 
